@@ -8,7 +8,7 @@ const PATHS = {
 }
 
 module.exports = {
-  entry: PATHS.src + '/App',
+  entry: PATHS.src + '/BankApp',
   output: {
     path: PATHS.build,
     filename: 'bundle.js'
